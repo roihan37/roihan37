@@ -25,7 +25,7 @@ Currently exploring the world of **AI Assistants** and how code can turn ideas i
 ### 📫 Reach me at
 
 **Email**: pro.roihan@gmail.com  
-**Website**: [roihan.dev](https://blog-iota-nine-38.vercel.app/)  
+**Website**: [roihansalsabila.com](https://roihansalsabila.com/)  
 **Instagram**: [@roi2five](https://instagram.com/roi2five)  
 **GitHub**: [@roihan37](https://github.com/roihan37)
 
